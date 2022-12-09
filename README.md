@@ -1,4 +1,4 @@
-# InstaYa - Aplicación de Servidor
+# InstaYa 
 
 Equipo 02
 usuario de prueba:
@@ -128,5 +128,4 @@ Para realizar el despliegue estaremos siguiendo paso a paso las [instrucciones e
 4. Una vez haya terminado el despliegue ejecutaremos `fly status` para revisar el estado de nuestro despliegue
 5. Finalmente ejecutaremos `fly open` para ver la URL de nuestra API
    - Es posible que al abrir la url nos salte un error, pero si nos dirigimos a ['/api'](https://insta-ya-server.fly.dev/api) podremos ver el mensaje de "hola mundo" que tenemos configurado
-#   i n s t a - y a - p r o j e c t  
- 
+#
