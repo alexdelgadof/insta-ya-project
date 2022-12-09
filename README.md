@@ -1,7 +1,9 @@
 # InstaYa 
 
 Equipo 02
+
 usuario de prueba:
+
 adelgadoe@uninorte.edu.co clave:12345
 
 ## Dependencias:
